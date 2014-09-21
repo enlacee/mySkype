@@ -21,7 +21,7 @@ to variables of configuration:
 
 ###Step 2
 Change these parameter:
-    user  = '****'	# userName Skype
+    user  = '****'  # userName Skype
     timeSend = 5
     messages = []
 
