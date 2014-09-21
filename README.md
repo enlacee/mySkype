@@ -20,3 +20,15 @@ to variables of configuration:
  
 
 ###Step 2
+Change these parameter:
+    user  = '****'	# userName Skype
+    timeSend = 5
+    messages = []
+
+###Step 3
+The file must have execution permission
+    sudo chmod 777 loopSkype.py
+
+execute program in terminal
+    python loopSkype.py
+
